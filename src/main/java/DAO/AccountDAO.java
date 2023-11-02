@@ -6,8 +6,9 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
+// dsfdsfad
 public class AccountDAO {
-    
+
     /**
      * Gets all the accounts from the database.
      * @return the list of all available accounts
